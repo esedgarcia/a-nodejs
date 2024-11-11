@@ -1,0 +1,12 @@
+{
+  "name": "a-nodejs",
+  "version": "1.0.0",
+  "description": "a-nodejs app is a simple program that generates a random number from 1 to 100 using JS and NodeJS as a compiler. It was made for the Programacion Distribuida class.",
+  "main": "aleatorio.js",
+  "scripts": {
+  "start": "node aleatorio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
